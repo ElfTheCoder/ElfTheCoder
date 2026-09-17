@@ -4,7 +4,7 @@
 
 ### 🧝‍♂️ Keeper of the Code Forest
 
-*Turning curious ideas into useful little spells.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=4F8F5B&center=true&vCenter=true&width=600&lines=Turning+curious+ideas+into+useful+spells;Exploring+the+forest+one+commit+at+a+time;Making+software+that+feels+like+a+friendly+path" alt="Animated introduction" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-173b2f?style=for-the-badge&logo=github&logoColor=f4f1de)](https://github.com/ElfTheCoder)
 [![JavaScript](https://img.shields.io/badge/JavaScript-d9a441?style=for-the-badge&logo=javascript&logoColor=173b2f)](#)
@@ -23,6 +23,15 @@ I wander through the code forest, building thoughtful tools and learning somethi
 - 💬 Ask me about: **JavaScript, Python, and turning rough ideas into working code**
 - ⚡ Motto: **small steps, sturdy bridges**
 
+## 🧭 Quest Board
+
+| Quest | Status | Reward |
+| --- | --- | --- |
+| Build something useful | 🟢 In progress | A tool someone enjoys using |
+| Learn a sharper pattern | 🟡 Always open | One less tangled path |
+| Leave better notes | 🟢 Active | A kinder forest for future travelers |
+| Find a thoughtful collaborator | 🔵 Seeking | Shared mischief, clean commits |
+
 ## ✨ Spellbook
 
 | Incantation | Purpose |
@@ -31,6 +40,19 @@ I wander through the code forest, building thoughtful tools and learning somethi
 | `craft()` | Make the smallest useful thing |
 | `test()` | Check the spell in daylight |
 | `share()` | Leave the path clearer for the next traveler |
+
+## 🗺️ Map of the Forest
+
+```mermaid
+graph LR
+    A[Curiosity] --> B[Small idea]
+    B --> C{Worth keeping?}
+    C -->|Yes| D[Craft]
+    C -->|Not yet| A
+    D --> E[Test in daylight]
+    E --> F[Share the path]
+    F --> A
+```
 
 ## 🧰 Tools of the Trade
 
